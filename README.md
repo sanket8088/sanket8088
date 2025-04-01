@@ -32,30 +32,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanket8088&theme=tokyonight" alt="sanket8088 streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanket8088&show_icons=true&theme=tokyonight" alt="sanket8088 stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket8088&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanket8088&theme=onedark&column=6" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 <p align="left">
