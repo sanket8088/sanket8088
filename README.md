@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔧 Backend engineer with 5+ years of experience building scalable apps  
+- 🔧 Software engineer with 6+ years of experience building scalable apps  
 - 🧪 I love building tools, products, and platforms from scratch  
 - 🧩 Currently exploring game engines & building open-source Notion-style tools  
 - 🚀 Worked on systems scaling to 100k+ users  
